@@ -1,0 +1,4 @@
+#Sun Jan 30 19:58:50 IST 2022
+base.0=/Users/day/Downloads/social/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
