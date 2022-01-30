@@ -6,7 +6,7 @@
 
 > **Note:** Be sure you have the React Native CLI [installed on your system](https://facebook.github.io/react-native/docs/getting-started).
 
-- `git clone https://github.com/ReactNativeSchool/react-native-social-media-app.git`
+- `git clone https://github.com/rahulpandey98/social`
 - `cd mobile`
 - `yarn install`/`npm install`
 - `(cd ios && pod install)`
